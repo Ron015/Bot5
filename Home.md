@@ -10,8 +10,6 @@
 
 # __**Table of Contents**__
 
-# __**Table of Contents**__
-
 - ## [**Home**](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki)
 
 ***
