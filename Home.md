@@ -1,4 +1,5 @@
-**Welcome to the `how-to-setup-your-linux-server` wiki!**
+
+***
 
 # This Wiki Is ment to give you an overview how to setup a LINUX (DEBIAN) Server
 
