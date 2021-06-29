@@ -1,6 +1,3 @@
-
-***
-
 # This Wiki Is ment to give you an overview how to setup a LINUX (DEBIAN) Server
 
 > It covers many things, from python over nodejs to java and webservers and more!
