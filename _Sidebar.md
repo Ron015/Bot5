@@ -1,1 +1,1 @@
-s
+[Support Server](https://support.milrato.eu)
