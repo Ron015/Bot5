@@ -39,4 +39,4 @@
         - [*3.5.2 Java 11*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/33.5.4-java-11)
         - [*3.5.3 Java 13*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.4-java-13)
         - [*3.5.4 Java 15*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.4-java-15)
-        - [*3.5.5 Java 16*]https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.4-java-16)
+        - [*3.5.5 Java 16*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.4-java-16)
