@@ -1,7 +1,8 @@
-> # __**Table of Contents**__
->
+
+# __**Table of Contents**__
+
 > ## [Home](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki)
->
+
 > ## [1 All needed Console Commands](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1-All-needed-Console-Commands)
 > >
 > > ### [1.1 Directory Navigation](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.1-Directory-Navigation)
@@ -27,7 +28,7 @@
 > > ### [1.11 Disk Usage](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.11-Disk-Usage)
 > >
 > > ### [1.12 User Information and Management](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.12-User-Information-and-Management)
->
+
 > ## [2 Do that before everything](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2-Do-that-Before!)
 > >
 > > ### [2.1 Youtube Tutorial](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2.1-Youtube-Tutorial)
