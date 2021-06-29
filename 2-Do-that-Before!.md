@@ -1,8 +1,5 @@
-# Installing Essentials
-```
-sudo apt-get install sudo
-sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev curl wget htop
-```
-
-# Youtube Tutorial
-[![](http://img.youtube.com/vi/mj0nKw3GQlc/0.jpg)](http://www.youtube.com/watch?v=mj0nKw3GQlc "Linux Tutorial")
+## [2 Do that before everything](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2-Do-that-Before!)
+>
+> ### [2.1 Youtube Tutorial](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2.1-Youtube-Tutorial)
+>
+> ### [2.2 Installing Essentials](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2.2-Installing-Essentials)
