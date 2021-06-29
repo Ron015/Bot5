@@ -1,3 +1,7 @@
+# Table of Contents
+
+***
+
 ## [1 All needed Console Commands](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1-All-needed-Console-Commands)
 >
 > ### [1.1 Directory Navigation](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.1-Directory-Navigation)
