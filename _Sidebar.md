@@ -1,6 +1,7 @@
-# [Home](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki)
 
 # __**Table of Contents**__
+
+## [Home](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki)
 
 ## [1 All needed Console Commands](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1-All-needed-Console-Commands)
 >
