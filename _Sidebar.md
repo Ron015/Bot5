@@ -25,3 +25,6 @@
     - ## [2.2 Installing Essentials](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2.2-Installing-Essentials)
 
 ***
+
+- ## [3 Installing 3rd Party Packages](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3-Install-3rd-Parties)
+    - ## [3.1 Nodejs & npm](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.1-Install-nodejs-and-npm)
