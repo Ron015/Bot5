@@ -1,19 +1,17 @@
 **Welcome to the `how-to-setup-your-linux-server` wiki!**
 
-# This Whole Github Is ment to give you an overview how to setup a LINUX (DEBIAN) Server
+# This Wiki Is ment to give you an overview how to setup a LINUX (DEBIAN) Server
 
 > It covers many things, from python over nodejs to java and webservers and more!
 > Working good for Discord Bot hosting and other hostings!
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
-
-## Youtube tutorial:
-
-[![](http://img.youtube.com/vi/mj0nKw3GQlc/0.jpg)](http://www.youtube.com/watch?v=mj0nKw3GQlc "Linux Tutorial")
+***
 
 # __**Table of Contents**__
 
 ## [Home](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki)
+
+***
 
 ## [1 All needed Console Commands](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1-All-needed-Console-Commands)
 >
@@ -41,8 +39,12 @@
 >
 > ### [1.12 User Information and Management](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.12-User-Information-and-Management)
 
+***
+
 ## [2 Do that before everything](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2-Do-that-Before!)
 >
 > ### [2.1 Youtube Tutorial](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2.1-Youtube-Tutorial)
 >
 > ### [2.2 Installing Essentials](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/2.2-Installing-Essentials)
+
+***
