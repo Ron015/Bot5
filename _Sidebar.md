@@ -17,6 +17,7 @@
     - [1.10 File Transfers](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.10-File-Transfers)
     - [1.11 Disk Usage](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.11-Disk-Usage)
     - [1.12 User Information and Management](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.12-User-Information-and-Management)
+    - [1.13 Speedtest](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/1.13-Speedtest)
 
 ***
 
