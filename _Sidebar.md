@@ -43,7 +43,7 @@
         - [*3.5.3 Java 13*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.3-java-13)
         - [*3.5.4 Java 15*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.4-java-15)
         - [*3.5.5 Java 16*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.5-java-16)
-        - [**3.5.6 Troubleshooting*](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/3.5.6-Troubleshooting)
+        - [*3.5.6 Troubleshooting*](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/3.5.6-Troubleshooting)
     - [3.6 Lighttpd with php](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.6-Lighttpd-with-php)
     - [3.7 Git](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.7-Git)
 - [4 pm2 Tutorial](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/4-pm2-tutorial)
