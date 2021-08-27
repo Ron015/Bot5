@@ -27,6 +27,7 @@
     - [1.11 Disk Usage](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.11-Disk-Usage)
     - [1.12 User Information and Management](https://github.com/Tomato6966/how-to-setup-your-linux-server/wiki/1.12-User-Information-and-Management)
     - [1.13 Speedtest](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/1.13-Speedtest)
+    - [1.14 Clear Cache](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/1.14-Clear-Cache)
 
 ***
 
@@ -37,6 +38,7 @@
 ***
 
 - [**__3 Installing 3rd Party Packages__**](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3-Install-3rd-Parties)
+    - [3.0 All in One](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/3.0-All-in-One)
     - [3.1 Nodejs & npm](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.1-Install-nodejs-and-npm)
     - [3.2 Yarn](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.2-Install-Yarn)
     - [3.3 Python](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.3-Install-python)
@@ -50,6 +52,7 @@
         - [*3.5.3 Java 13*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.3-java-13)
         - [*3.5.4 Java 15*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.4-java-15)
         - [*3.5.5 Java 16*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.5-java-16)
+        - [*3.5.6 Troubleshooting*](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/3.5.6-Troubleshooting)
     - [3.6 Lighttpd with php](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.6-Lighttpd-with-php)
     - [3.7 Git](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.7-Git)
 - [4 pm2 Tutorial](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/4-pm2-tutorial)
