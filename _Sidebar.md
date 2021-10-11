@@ -36,6 +36,7 @@
         - [*3.3.1 pip*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.3.1-pip)
         - [*3.3.2 pip3*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.3.2-pip3)
         - [*3.3.3 Python3.9*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.3.3-python3.9)
+        - [*3.3.4 Python3.10*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.3.4-python3.10)
     - [3.4 FFMPEG](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.4-ffmpeg)
     - [3.5 Java](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5-java)
         - [*3.5.1 Java 8*](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.5.1-java-8)
